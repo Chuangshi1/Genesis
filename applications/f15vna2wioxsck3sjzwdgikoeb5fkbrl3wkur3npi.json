@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f15vna2wioxsck3sjzwdgikoeb5fkbrl3wkur3npi",
+  "Issue Number": "20",
+  "Client": {
+    "Name": "FO",
+    "Region": "China",
+    "Industry": "Information, Media & Telecommunications",
+    "Website": "http://www.cqxmcm.com/index.html",
+    "Social Media": "http://www.cqxmcm.com/index.html",
+    "Social Media Type": "WeChat",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Chongqing Ximan Film and Television Media Co., Ltd. estabilshed in 2010 and covers five major project systems: film and television production, advertising media, technology exhibitions, brand operation, planning and planning, and provides all-round visual marketing solutions. Now it is expanding the western market with Chongqing as the center. The market business covers Yun, Gui, Sichuan, Shaanxi, Hubei, Hunan, Guangxi and other regions, serving more than 100 governments and large and medium-sized enterprises. Committed to providing comprehensive services for the city's external publicity system, and motivated to become a high-quality service provider for the city's external publicity system.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "We want to store some film and television productions, government propaganda films, corporate propaganda films, TVC commercial films, product propaganda films, investment promotion films, micro-films, feature films, documentaries, photography, advertising, film and television media, self-media, brand planning , album design, product design, software development, technology exhibition and other data resources",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://www.cqxmcm.com/html/zuopinzhanshi/\r\nhttps://so.youku.com/search_video/q_%E8%A5%BF%E8%94%93%E5%BD%B1%E8%A7%86?searchfrom=3\r\nThis is our some works displays in our website. Tips:It will have ads when you watch it.If they are not enough samples for you, pls contact with me. (the pictures i upload in the google drive also come from our videos)Thank you very much.",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1 to 1.5 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f01660008 India\r\nf03126600 CN\r\nf03010701 CN\r\nf03099903 HK\r\nf01730296 HK",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "200t",
+    "Replicas": 4,
+    "Weekly Allocation": "500TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-06-06 07:27:46.136229469 UTC",
+    "Validated By": "Chuangshi1",
+    "Active": true,
+    "Updated At": "2024-06-06 07:28:27.609288060 UTC",
+    "Active Request ID": "6063e6bf-b5c2-4ad5-8947-2e8a653216e1",
+    "On Chain Address": "f15vna2wioxsck3sjzwdgikoeb5fkbrl3wkur3npi",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "6063e6bf-b5c2-4ad5-8947-2e8a653216e1",
+      "Request Type": "First",
+      "Created At": "2024-06-06 07:27:46.136236514 UTC",
+      "Updated At": "2024-06-06 07:27:46.136237741 UTC",
+      "Active": false,
+      "Allocation Amount": "100TiB",
+      "Signers": [
+        {
+          "Github Username": "Chuangshi1",
+          "Signing Address": "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
+          "Created At": "2024-06-06 07:28:25.039000000 UTC",
+          "Message CID": "bafy2bzaceckm7dwlu62vsbb4uzzxmke6zjtg2fxuyuybvgtwxqnwxuym4fit6"
+        }
+      ]
+    }
+  ]
+}
