@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1ekt4rnygw3rpnmmtb5dtscjap7oprmj46upzzaa",
+  "Issue Number": "30",
+  "Client": {
+    "Name": "makecx",
+    "Region": "China",
+    "Industry": "Information, Media & Telecommunications",
+    "Website": "http://www.makecx.com/",
+    "Social Media": "http://www.makecx.com/",
+    "Social Media Type": "Slack",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "makecx  Culture Media Co., Ltd. was established in 2016. It is a cultural enterprise with animation content creation as its core. It is formed by the core planning team, operation team, creative team and production team of former Bilibili, former Mili Film, Oriental DreamWorks, Hengdian Film and Television Group. The company's main business includes original animation development, animation IP planning and operation, The whole process of 2D and 3D animation production. The company has participated in the planning, operation, creation and production of many high-end projects at home and abroad such as animation films, animation dramas, animation CG, and live shooting, providing high-quality services to customers at home and abroad, and improving the commercial value of operating projects with professional operation methods. In the original development of animation, we cooperate with upstream and downstream enterprises in the industry chain to create a closed loop of the animation industry. The company digs deep into the traditional culture of \"China Five Thousand Years\", passes on the excellent traditional Chinese culture to children through animation, and creates the smiling faces of the next generation of human beings.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Describe the data being stored onto Filecoin": "We are a cultural enterprise with animation content creation as the core. It is composed of the core planning team, operation team, creative team and production team of the original Bilibili, the original Mi Li Film, Oriental DreamWorks, and Hengdian Film and Television Group. The company's main business includes original animation development, animation IP planning and operation, and the whole process of 2D and 3D animation production. The company has participated in the planning, operation, creation and production of many domestic and foreign high-end projects such as animation movies, animation dramas, animation CG, and live-action shooting, providing high-quality services to domestic and foreign customers, and enhancing the commercial value of operating projects with professional operation methods. In this process, a large number of real and valuable film and television resources, video pictures, etc. have been generated, and we hope that they can be effectively preserved.",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://drive.google.com/drive/folders/1dHPtr63Ge8dJCEEp3LShtYb8cPlY2hBI?usp=sharing",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1 to 1.5 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, Africa",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3), HTTP or FTP server, IPFS, Shipping hard drives, Lotus built-in data transfer",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03096886 Guangdong province of China   \r\nf03098989  HK     \r\nf01660008 Jakarta, Indonesia \r\nf02824216 Zhejiang province of China",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "100TiB",
+    "Replicas": 4,
+    "Weekly Allocation": "500T"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-06-14 02:30:02.870347010 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1ekt4rnygw3rpnmmtb5dtscjap7oprmj46upzzaa",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
