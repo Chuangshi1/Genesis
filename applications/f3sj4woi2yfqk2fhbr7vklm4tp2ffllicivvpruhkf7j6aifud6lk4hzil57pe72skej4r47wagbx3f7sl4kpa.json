@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f3sj4woi2yfqk2fhbr7vklm4tp2ffllicivvpruhkf7j6aifud6lk4hzil57pe72skej4r47wagbx3f7sl4kpa",
+  "Issue Number": "44",
+  "Client": {
+    "Name": "JA Network",
+    "Region": "China",
+    "Industry": "Information, Media & Telecommunications",
+    "Website": "https://www.zzidc.com/",
+    "Social Media": "https://weibo.com/giantnetwork QQ：4006598598 https://mp.weixin.qq.com/s/nck1_HJGwBXAXqX2f1cnMg",
+    "Social Media Type": "Slack",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Jingan Network (stock code: 832757), established in 2004, is a high-tech enterprise dedicated to the Internet service industry. The registered capital of the company is 52.01 million yuan, and it registered on the New Third Board in July 2015. Mainly engaged in Internet data center, cloud computing, \"Internet +\" industry solutions, and big data analysis and application and other related businesses.Jingan Network has Zhengzhou headquarters, Beijing branch and Guangzhou, Luoyang, Changsha, Hong Kong and other subsidiaries. Now self-constructed and operated the three data center bases of Henan Communication Industrial Park Data Center, Jing'an Luoyang IDC Cloud Computing Industrial Park, and Hunan Unicom Changsha Cloud Data Center, with a connection rate of 99.995%; Communication, cloud computing, big data, etc. provide stable and secure data center access services. As of now, the number of service users is 500,000+; the number of website accesses has reached 30+, ranking third in the country.So there are lots of encrypted data that need to be stored.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "They are mainly the server access log data and smart video from our company.It updates with the time goes by. At present we have 3PiB data and want make 5 coyies.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://drive.google.com/drive/folders/10FtpWSOBkIByBkfuvWlljdu3BYF3-Qv7?usp=sharing",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1 to 1.5 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f01531188 HK\r\nf03238633 SG\r\nf03241413 CN\r\nf03241759 CN",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "200TiB",
+    "Replicas": 4,
+    "Weekly Allocation": "500TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-11-14 09:43:57.786146705 UTC",
+    "Validated By": "Chuangshi1",
+    "Active": true,
+    "Updated At": "2024-11-14 09:46:05.636106429 UTC",
+    "Active Request ID": "1c236689-06e4-4f07-9fec-e0db52571210",
+    "On Chain Address": "f3sj4woi2yfqk2fhbr7vklm4tp2ffllicivvpruhkf7j6aifud6lk4hzil57pe72skej4r47wagbx3f7sl4kpa",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "1c236689-06e4-4f07-9fec-e0db52571210",
+      "Request Type": "First",
+      "Created At": "2024-11-14 09:43:57.786154015 UTC",
+      "Updated At": "2024-11-14 09:43:57.786155153 UTC",
+      "Active": false,
+      "Allocation Amount": "512TiB",
+      "Signers": [
+        {
+          "Github Username": "Chuangshi1",
+          "Signing Address": "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
+          "Created At": "2024-11-14 09:46:02.891000000 UTC",
+          "Message CID": "bafy2bzacec3bpuihlywblhea3fihiq6jxnujw3yukh5y5givmllyspxjpbpzs"
+        }
+      ]
+    }
+  ]
+}
