@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "ID": "f1tb2hrxk5eaeewcesnid6xmvfkklfdrxsjr5k6iy",
+  "Issue Number": "4",
+  "Client": {
+    "Name": "45",
+    "Region": "Afghanistan",
+    "Industry": "Life Science / Healthcare",
+    "Website": "ww",
+    "Social Media": "test",
+    "Social Media Type": "Slack",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Project Id": "3",
+    "Brief history of your project and organization": "2",
+    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Describe the data being stored onto Filecoin": "3",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "3",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "3",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Daily",
+    "For how long do you plan to keep this dataset stored on Filecoin": "Less than 1 year",
+    "In which geographies do you plan on making storage deals": "Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "3",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5TiB",
+    "Single Size Dataset": "1",
+    "Replicas": 4,
+    "Weekly Allocation": "1"
+  },
+  "Lifecycle": {
+    "State": "ReadyToSign",
+    "Validated At": "2024-04-07 02:52:59.627818702 UTC",
+    "Validated By": "Chuangshi1",
+    "Active": true,
+    "Updated At": "2024-04-07 02:52:59.627824334 UTC",
+    "Active Request ID": "0b6d286f-57de-4b77-af02-eb98b2379fa2",
+    "On Chain Address": "f1tb2hrxk5eaeewcesnid6xmvfkklfdrxsjr5k6iy",
+    "Multisig Address": "false"
+  },
+  "Allocation Requests": [
+    {
+      "ID": "0b6d286f-57de-4b77-af02-eb98b2379fa2",
+      "Request Type": "First",
+      "Created At": "2024-04-07 02:52:59.627825805 UTC",
+      "Updated At": "2024-04-07 02:52:59.627826551 UTC",
+      "Active": true,
+      "Allocation Amount": "1TiB",
+      "Signers": []
+    }
+  ]
+}
