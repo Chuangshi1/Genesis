@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f3rjgwpoq5lcsiw3gikvyhptexssps5da52jbimylkbn7cyd4z3zlq7kgj2bgdtikxmyawnkanxgklbod3cbea",
+  "Issue Number": "53",
+  "Client": {
+    "Name": "Computer Network Information Center of Chinese Academy of Sciences",
+    "Region": "China",
+    "Industry": "Life Science / Healthcare",
+    "Website": "https://www.gscloud.cn/sources/details/411?pid=263",
+    "Social Media": "http://www.gscloud.cn/#page1",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "The Computer Network Information Center of the Chinese Academy of Sciences was established in March 1995. It is a research, development, construction, operation and service guarantee institution for scientific research informatization and management informatization of the Chinese Academy of Sciences, and a demonstration base for information technology innovation and application.\r\nThe Computer Network Information Center of the Chinese Academy of Sciences (CNIC) is a scientific research institution under the Chinese Academy of Sciences, mainly engaged in computer network technology and database technology research. CNIC was established in April 1995 and is a scientific research support institution developed in the process of building China's science and technology network and scientific database. China Science and Technology Network is an Internet network covering the whole country developed on the basis of the \"China National Computing and Network Facilities Project\" built with a loan from the World Bank, and was the first in China to be connected to the Internet.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Landsat-8 is basically the same as Landsat 1-7 in terms of spatial resolution and spectral characteristics. The satellite has a total of 11 bands. The spatial resolution of bands 1-7, 9-11 is 30 meters, and band 8 is a panchromatic band with a resolution of 15 meters. The satellite can achieve global coverage once every 16 days.\r\nThe OLI land imager has 9 bands and an imaging width of 185x185km. Compared with the ETM sensor on Landsat-7, the OLI land imager has made the following adjustments: 1. The band range of Band 5 is adjusted to 0.845–0.885 μm, eliminating the influence of water vapor absorption at 0.825 μm; 2. The panchromatic band range of Band 8 is narrower, so that vegetation and non-vegetation areas can be better distinguished; 3. Two new bands are added. Band 1 blue band (0.433–0.453 μm) is mainly used for coastal observations, and Band 9 shortwave infrared band (1.360–1.390 μm) is used for cloud detection. The TIRS thermal infrared sensor carried by LandSat-8 is mainly used to collect heat loss in two hot zones on the earth, with the goal of understanding the water consumption in the observed zone.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.gscloud.cn/sources/accessdata/411?pid=263",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
+    "In which geographies do you plan on making storage deals": "Greater China, North America",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3), HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f01912253 US\r\nf01016847 US\r\nf01832584  US\r\nf01019009  US\r\nf0866680  CN",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "1PiB",
+    "Single Size Dataset": "183.4TB",
+    "Replicas": 6,
+    "Weekly Allocation": "200TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-01-17 02:32:32.510238496 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f3rjgwpoq5lcsiw3gikvyhptexssps5da52jbimylkbn7cyd4z3zlq7kgj2bgdtikxmyawnkanxgklbod3cbea",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
