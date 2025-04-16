@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1wjl22ez6dvsxlyfiivqil62ziginn2ytmn7b6uy",
+  "Issue Number": "63",
+  "Client": {
+    "Name": "Vision Culture",
+    "Region": "China",
+    "Industry": "Information, Media & Telecommunications",
+    "Website": "http://www.tvcsy.com/",
+    "Social Media": "http://www.tvcsy.com/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Shenzhen Vision Film Production Company always positions itself as a pioneer in the domestic film and television production industry, focusing on promoting communication effects through leading film and television art and culture. The company provides services such as corporate promotional videos, corporate documentaries, commercial video shooting, corporate promotional video production, corporate documentary production, Shenzhen film and TV advertising production, advertising promotional videos, corporate promotional video shooting, commercial video production, and documentary shooting. As a professional Shenzhen film and TV advertising company, it delivers the most sales-effective advertising films to its clients. \n\nThe company has a highly efficient operational team consisting of independent yet closely collaborative departments, including a creative planning department, customer service department, pre-production filming department, and post-production department. Over the years, through the relentless efforts of its entire team of experts, the company has created numerous successful and impressive business cases and has established fruitful cooperation with many well-known enterprises.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Corporate promotional videos, corporate documentaries, commercial video shooting, corporate promotional video production, corporate documentary production, film and TV advertising production, advertising promotional videos, corporate promotional video shooting, commercial video production, documentary shooting, and other related services.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "The Filecoin data preparation process mainly includes data encapsulation and verification. First, the storage provider splits the user data into fixed-size sectors, then encodes and encrypts each sector. Afterward, technologies such as zero-knowledge proofs are used to verify the encapsulated data, ensuring the integrity and reliability of the data so that it can be securely stored in the network.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://www.tvcsy.com/a/yingshizhizuo/qiyexuanchuanpian/\nhttp://www.tvcsy.com/a/yingshizhizuo/sanweidonghuapian/",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Sporadic",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Australia (continent), Europe",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03512458 \nf03512720 \nf03513151 \nf03513182 \nf03202108\nf03239692 \nf03254235 \nf03321072\nf03528948\nf03528979\nf03529412",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "10PiB",
+    "Single Size Dataset": "980TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "1000TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-04-16 02:44:33.323080196 UTC",
+    "Validated By": "Chuangshi1",
+    "Active": true,
+    "Updated At": "2025-04-16 02:44:33.323076159 UTC",
+    "Active Request ID": "41411b9d-c9d7-4777-8e9f-f76312eac862",
+    "On Chain Address": "f1wjl22ez6dvsxlyfiivqil62ziginn2ytmn7b6uy",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "41411b9d-c9d7-4777-8e9f-f76312eac862",
+      "Request Type": "First",
+      "Created At": "2025-04-16 02:40:10.072987920 UTC",
+      "Updated At": "2025-04-16 02:40:10.072988709 UTC",
+      "Active": false,
+      "Allocation Amount": "562949953421312 B",
+      "Signers": [
+        {
+          "Github Username": "Chuangshi1",
+          "Signing Address": "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
+          "Created At": "2025-04-16 02:44:30.302000000 UTC",
+          "Message CID": "bafy2bzacecjsp5jq5d4ftfs26wsya4wyekp3enuc7u7cxx4zk5vjbs2c4kyne"
+        }
+      ]
+    }
+  ]
+}
