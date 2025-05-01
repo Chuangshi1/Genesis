@@ -35,11 +35,11 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-05-01 03:54:02.329097736 UTC",
+    "State": "Granted",
+    "Validated At": "2025-05-01 03:55:40.590832213 UTC",
     "Validated By": "Chuangshi1",
     "Active": true,
-    "Updated At": "2025-05-01 03:54:02.329100408 UTC",
+    "Updated At": "2025-05-01 03:55:40.590828457 UTC",
     "Active Request ID": "f8d379ca-c408-49e3-97d1-68248929c2da",
     "On Chain Address": "f1wjl22ez6dvsxlyfiivqil62ziginn2ytmn7b6uy",
     "Multisig Address": "false",
@@ -67,9 +67,16 @@
       "Request Type": "Refill",
       "Created At": "2025-05-01 03:54:02.329103808 UTC",
       "Updated At": "2025-05-01 03:54:02.329104514 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "562949953421312B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "Chuangshi1",
+          "Signing Address": "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
+          "Created At": "2025-05-01 03:55:38.689000000 UTC",
+          "Message CID": "bafy2bzacedkm7c5nin2pfcjbjj3kc7lnntwopr3lr4z5kjlvmzwhb5bkke5tg"
+        }
+      ]
     }
   ]
 }
